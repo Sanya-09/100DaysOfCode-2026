@@ -1,4 +1,4 @@
-package DSA.SanyaAgarwal_500120145.Day_1.Question1_Leetcode;
+package DSA.SanyaAgarwal_500120145.Day_1;
 
 public class Solution {
     public int missingNumber(int[] nums) {
